@@ -11,5 +11,5 @@ I found a piece of code that uses p5.js, which first gives the smiley face statu
 
 But the positions of the dots are random, not ordered. I thought it would be possible to write a piece of code that would arrange the dots in a certain way, make them parallel and vertical, and give a certain space between each dot, so that you could produce the kind of pixel-like billboards and lights that you see in the picture.
 
-***Link to the example code: *** https://codepen.io/tihawk/pen/XGNyEL
+***Link to the example code:*** https://codepen.io/tihawk/pen/XGNyEL
 ![alt text](ReadmeImages/微信图片_20240502225104.png)
